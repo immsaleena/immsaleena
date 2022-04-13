@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @immsaleena
-- 👀 I’m interested in front end.
-- 🌱 I’m currently learning react js.
+- 👀 I’m interested in back end.
+- 🌱 I’m currently learning AWS.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me b.salina71@gmail.com
 
