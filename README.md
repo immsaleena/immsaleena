@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @immsaleena
-- 👀 I’m interested in back end.
-- 🌱 I’m currently learning AWS.
+- 👀 I’m interested in Software Engineer.
+- 🌱 I’m currently learning UI/UX.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me b.salina71@gmail.com
 
